@@ -9,3 +9,4 @@ HuggingFace NLP Tasks N个实战任务
 本项目是不分享数据文件和模型文件的,太大了github传不上来.
 
 new：添加一个项目
+new: 小王添加
